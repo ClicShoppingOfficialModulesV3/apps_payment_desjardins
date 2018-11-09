@@ -19,3 +19,4 @@ link to marketplace : https://www.clicshopping.org/forum/files/file/63-apps_paym
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_cod/blob/master/ModuleInfosJson/image.png)
 
+
