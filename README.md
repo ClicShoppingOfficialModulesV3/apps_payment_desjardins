@@ -17,6 +17,6 @@ Activate the module in Payment
 See Marketplace for all informations
 link to marketplace : https://www.clicshopping.org/forum/files/file/63-apps_payment_desjardins/
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_cod/blob/master/ModuleInfosJson/image.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_desjardins/blob/master/ModuleInfosJson/image.png)
 
 
