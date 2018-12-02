@@ -4,7 +4,7 @@
   "vendor":			"Payment",
   "is_free":   "no",
   "is_core":   "no",
-  "website_link_to_sell" : "",
+  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/61-apps_payment_desjardins/",
   "version":			"1.0.1",
   "req_core_version":	3.0,
   "license":			"GPL 2 - MIT",
