@@ -1,0 +1,2 @@
+cfg_desjardins_company_title = Please insert your Company Code
+cfg_desjardins_company_desc =  Company Code is given by Desjardins

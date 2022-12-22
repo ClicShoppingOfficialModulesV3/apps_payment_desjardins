@@ -1,0 +1,5 @@
+cfg_desjardins_server_test_title = Please choose your environement
+cfg_desjardins_server_test_description =  Environement Test or production
+
+cfg_desjardins_server_test =  Test
+cfg_desjardins_server_production = Production

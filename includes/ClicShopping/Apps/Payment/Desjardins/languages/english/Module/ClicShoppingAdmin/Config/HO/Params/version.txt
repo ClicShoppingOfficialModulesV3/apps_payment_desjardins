@@ -1,0 +1,2 @@
+cfg_desjardins_version_title = Please insert your Desjardins version
+cfg_desjardins_version_desc =  Version

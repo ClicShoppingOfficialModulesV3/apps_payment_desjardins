@@ -1,0 +1,15 @@
+button_view_at_desjardins = View at Desjardins Monetico
+
+tab_title = Desjardins
+
+table_heading_date = Date
+table_heading_ref_number = Id Number
+table_heading_order_id = Order Id
+table_heading_tpe =  Code TPE
+table_heading_montant = Order Amount
+table_heading_code_retour = Code Type
+table_heading_retour_plus = Retour Plus
+table_heading_ip_customer = Ip Customer
+table_heading_originecb = Origin CB
+table_heading_originetr = Origin TR
+table_heading_modepaiement = Payment mode

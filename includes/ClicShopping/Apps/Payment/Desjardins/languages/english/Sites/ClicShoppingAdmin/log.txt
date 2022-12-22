@@ -1,0 +1,32 @@
+table_heading_ip = IP Customer
+table_heading_customer = Customer
+table_heading_date = Date
+table_heading_response = Back code
+table_order_id = Order id
+table_heading_amount = Order Amount
+table_heading_brand = Card
+
+
+guest = Guest
+
+no_entries = No log entries found.
+
+listing_number_of_log_entries = Displaying <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (of <strong>{{listing_total}}</strong> entries)
+
+dialog_delete_title = Delete All Log Entries?
+dialog_delete_body = Are you sure you want to delete all log entries?
+
+table_heading_entries_request = Request
+table_heading_entries_response = Response
+
+alert_delete_success = Log entries have been successfully deleted.
+
+button_configure = Configure
+button_log = Log
+button_dialog_delete = Delete
+button_sort_order = Sort order
+button_delete = Delete
+button_cancel = Cancel
+
+app_link_info = Info/Help
+app_link_privacy = Privacy

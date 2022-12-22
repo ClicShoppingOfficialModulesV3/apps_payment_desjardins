@@ -1,0 +1,5 @@
+cfg_desjardins_debug_receipt_title = Do you want to receive the call back information session for debug
+cfg_desjardins_debug_receipt_description =  Display some information about the call back informations of session (not use in production)
+
+cfg_desjardins_debug_receipt_true =  True
+cfg_desjardins_debug_receipt_false = False

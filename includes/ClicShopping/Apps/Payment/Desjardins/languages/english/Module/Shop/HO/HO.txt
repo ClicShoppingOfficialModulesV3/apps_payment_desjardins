@@ -1,0 +1,5 @@
+module_desjardins_title = Payment by Desjardins
+module_desjardins_short_title = Payment by Desjardins
+module_desjardins_public_title = Payment by Desjardins
+
+module_desjardins_text = Make Payable To:&nbsp; {{pay_to}} <br /><br />Send To:<br />{{store_name_addres}}<br /><br />Your order will not ship until we receive payment

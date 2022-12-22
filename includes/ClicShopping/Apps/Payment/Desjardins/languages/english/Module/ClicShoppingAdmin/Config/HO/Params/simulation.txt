@@ -1,0 +1,5 @@
+cfg_desjardins_simulation_test_title = Do you want to applied Simulation for test envrionnement
+cfg_desjardins_simulation_test_description =  Show the details of order and data before to send
+
+cfg_desjardins_simulation_test_true =  True
+cfg_desjardins_simulation_test_false = False

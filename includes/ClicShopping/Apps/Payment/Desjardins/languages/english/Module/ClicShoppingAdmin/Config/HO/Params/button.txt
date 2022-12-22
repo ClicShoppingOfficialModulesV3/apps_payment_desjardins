@@ -1,0 +1,2 @@
+cfg_desjardins_button_title = Please insert the word you want apply on the payment button
+cfg_desjardins_button_desc =  Change the default word

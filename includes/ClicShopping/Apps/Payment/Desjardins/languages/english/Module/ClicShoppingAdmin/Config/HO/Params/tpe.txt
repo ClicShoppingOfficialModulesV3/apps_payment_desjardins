@@ -1,0 +1,2 @@
+cfg_desjardins_tpe_title = TPE Number
+cfg_desjardins_tpe_desc =  Number is given by  Desjardins

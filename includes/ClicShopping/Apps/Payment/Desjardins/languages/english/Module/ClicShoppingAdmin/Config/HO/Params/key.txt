@@ -1,0 +1,2 @@
+cfg_desjardins_key_title = Please insert your Desjardins Key
+cfg_desjardins_key_desc =  Number is given by Desjardins
